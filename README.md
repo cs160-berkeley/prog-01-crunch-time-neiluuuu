@@ -17,9 +17,9 @@ Stair-Climbing: 15
 
 Extra Credit Done:
 
-*Support all exercises, not just the ones in red, on the table (both calories burned and pairwise equivalent conversion).
+* Support all exercises, not just the ones in red, on the table (both calories burned and pairwise equivalent conversion).
 
-*Allow a user to enter how many calories they want to burn. The user should be able to see how many reps/minutes of exercises they would need to burn their target amount of calories. For example: if the user enter 200 calories as a target, they should see that they need to do 700 pushups (yikes), 400 situps, 24 minutes of jogging, etc.
+* Allow a user to enter how many calories they want to burn. The user should be able to see how many reps/minutes of exercises they would need to burn their target amount of calories. For example: if the user enter 200 calories as a target, they should see that they need to do 700 pushups (yikes), 400 situps, 24 minutes of jogging, etc.
 
 ## Authors
 
@@ -34,8 +34,6 @@ See [Convert-o-Cal] (https://youtu.be/pgzseJzMYmc)
 <img src="screenshots/welcome.png" height="400" alt="Main"/>
 
 <img src="screenshots/convert.png" height="400" alt="Convert"/>
-
-<img src="screenshots/convert2.png" height="400" alt="Convert"/>
 
 <img src="screenshots/slider.png" height="400" alt="Slider"/>
 
