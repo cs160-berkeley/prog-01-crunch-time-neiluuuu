@@ -1,4 +1,6 @@
-# PROG 01: Crunch Time
+# Convert-o-Cal
+
+<img src="screenshots/convert2.png" height="400" alt="Convert2"/>
 
 This app allows you to see how many calories you've burned doing a a certain amount of an exercise.  You can also see how much of an exercise that is equivalent to.  If you wanted to see how much of an exercise you need to do to burn a certain amount of calories, you can do that to.  The app uses the following conversions to 100 calories:
 
