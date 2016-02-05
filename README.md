@@ -2,18 +2,20 @@
 
 This app allows you to see how many calories you've burned doing a a certain amount of an exercise.  You can also see how much of an exercise that is equivalent to.  If you wanted to see how much of an exercise you need to do to burn a certain amount of calories, you can do that to.  The app uses the following conversions to 100 calories:
 
-Pushup: 350 Reps
-Situp: 200 Reps
-Squats: 225 Reps
-Leg-lift: 25 Minutes
-Plank: 25 Minutes
-Jumping Jacks: 10 Minutes
-Pullup: 100 Reps
-Cycling: 12 Minutes
-Walking: 20 Minutes
-Jogging: 12 Minutes
-Swimming: 13 Minutes
-Stair-Climbing: 15 
+| Exercise       | Amount (for 100 cal) |
+|----------------|----------------------|
+| Pushup         | 350 Reps             |
+| Situp          | 200 Reps             |
+| Squats         | 225 Reps             |
+| Leg-lift       | 25 Minutes           |
+| Plank          | 25 Minutes           |
+| Jumping Jacks  | 10 Minutes           |
+| Pullup         | 100 Reps             |
+| Cycling        | 12 Minutes           |
+| Walking        | 20 Minutes           |
+| Jogging        | 12 Minutes           |
+| Swimming       | 13 Minutes           |
+| Stair-Climbing | 15 Minutes           |
 
 Extra Credit Done:
 
